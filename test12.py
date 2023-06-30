@@ -1,0 +1,1 @@
+print("we are try to learn how to qualify data scientist interview")
